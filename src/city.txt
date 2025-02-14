@@ -1,0 +1,16 @@
+
+
+      <h1>Cities Application</h1>
+      <h2>Add City</h2>
+
+<label>Name:</label>
+<input name='name'></input>
+<br></br>
+
+<labe>Country</labe>
+<input name='country'></input>
+<br></br>
+<label>Population</label>
+<input name='population'></input>
+<br></br>
+<button style={{backgroundColor:'blue', color:'white'}}>Add City</button>
